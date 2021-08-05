@@ -26,7 +26,7 @@ Requirements
 
 Web Project Setup
 -----------------
-Once you installed the any of the XAMPP, got to the path : C:\xampp\htdocs and create new folder name as "webproject-name" , inside the main folder starting creating the necessary folders which is required to organize the code. please refer the respository folder structure. 
+Once you installed the any of the XAMPP, go to the path : C:\xampp\htdocs and create new folder name as "webproject-name" , inside the main folder starting creating the necessary folders which is required to organize the code. please refer the respository folder structure. 
 There is two ways we can execute the files
  - using live server (http://127.0.0.1:5500/) 
  - using xampp server (http://localhost/dashboard/)
