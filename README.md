@@ -31,6 +31,6 @@ There is two ways we can execute the files
  - using live server (http://127.0.0.1:5500/) 
  - using xampp server (http://localhost/dashboard/)
 
-once you setup everything,you can start your first website. 
+once you setup everything,you can start building your first website. 
 
 #Happy Coding 
