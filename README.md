@@ -26,7 +26,7 @@ Requirements
 
 Web Project Setup
 -----------------
-Once you installed the any of the XAMPP, go to the path : C:\xampp\htdocs and create new folder name as "webproject-name" , inside the main folder starting creating the necessary folders which is required to organize the code. please refer the respository folder structure. 
+Once you installed the any of the XAMPP, go to the path : C:\xampp\htdocs and create new folder name as "webproject-name" , inside the main folder starting creating the necessary folders which is required to organize the code. please refer the respository folder structure. The Database file available in database folder . Import the .sql into your local phpmyadmin so that you will get all tables and data easily.
 There is two ways we can execute the files
  - using live server (http://127.0.0.1:5500/) 
  - using xampp server (http://localhost/dashboard/)
